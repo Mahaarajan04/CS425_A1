@@ -1,7 +1,7 @@
 # CS425: Computer Networks
 
 
-## Syallabus
+## Syllabus
 
 
 ## Teaching Assistants
